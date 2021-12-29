@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append('/home/shodan/Downloads/gmailtelegrambot')
+sys.path.append('/home/devuser/leedbot')
 from dbapi.dbapi import DatabaseAPI
 from bot.utils.misc.formatm import get_data
 import imaplib, email
@@ -25,10 +25,11 @@ def write_to_db(message, db):
                          'source': 1,
                          'inwork': False,
                          'status': 'none'})
-
+    print('writed')
 def get_message(response, db):
     if isinstance(response, tuple):
         msg = email.message_from_bytes(response[1])
+        print(get_text(msg).decode('utf-8'))
         write_to_db(get_text(msg).decode('utf-8'), db)
 
 
@@ -56,5 +57,6 @@ while True:
     check_messages = int(get_all_messages(imap)[1][0])
     new_messages = check_messages - messages
     if new_messages > 0:
+        print('new message here')
         read_email_from_gmail(imap, db, new_messages)
         messages = check_messages

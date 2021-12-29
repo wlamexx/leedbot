@@ -1,7 +1,9 @@
 import logging
+import sys
 
 from aiogram import Dispatcher
-
+sys.path.append(sys.path[-1]+'/bot')
+print(sys.path)
 from data.config import ADMINS
 
 

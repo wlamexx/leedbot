@@ -1,0 +1,1085 @@
+['/home/devuser/leedbot/gmailapi', '/usr/lib64/python39.zip', '/usr/lib64/python3.9', '/usr/lib64/python3.9/lib-dynload', '/home/devuser/.local/lib/python3.9/site-packages', '/usr/local/lib/python3.9/site-packages', '/usr/lib64/python3.9/site-packages', '/usr/lib/python3.9/site-packages', '/home/devuser/leedbot', '/home/devuser/leedbot/bot']
+new message here
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" /><!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript" ></script><![endif]--><meta name="description" content="" /><title>Новые запросы на услуги</title><style type="text/css">a:hover { color:#457edb; text-decoration: none; }a:active { color:#457edb; text-decoration: underline; }.top_link { color:#010101; text-decoration: none; }.top_link:hover { color:#457edb; text-decoration: underline; }.bottom_link { color:#b4b4b4; text-decoration: underline; }.bottom_link:hover { color:#457edb; text-decoration: underline; }.main { width:680px; max-width:680px; }.hover_red:hover {color: #fff !important;border: none !important;background: #ff7676 !important;background: -moz-linear-gradient(top,  #ff7676 0%, #f24c4c 100%) !important;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff7676), color-stop(100%,#f24c4c)) !important;background: -webkit-linear-gradient(top,  #ff7676 0%,#f24c4c 100%) !important;background: -o-linear-gradient(top,  #ff7676 0%,#f24c4c 100%) !important;background: -ms-linear-gradient(top,  #ff7676 0%,#f24c4c 100%) !important;background: linear-gradient(to bottom,  #ff7676 0%,#f24c4c 100%) !important;filter:   progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff7676', endColorstr='#f24c4c',GradientType=0 ) !important;}.rouble { font-family: Verdana, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }@media only screen and (max-width: 300px) { .main { width:200px; max-width:200px; } }@media only screen and (min-width: 300px) and (max-width: 400px) { .main { width:300px; max-width:300px; } }@media only screen and (min-width: 400px) and (max-width: 500px) { .main { width:400px; max-width:400px; } }@media only screen and (min-width: 500px) and (max-width: 600px) { .main { width:500px; max-width:500px; } }@media only screen and (min-width: 600px) and (max-width: 680px) { .main { width:600px; max-width:600px; } }@media only screen and (min-width: 680px) { .main { width:680px; max-width:680px; } }.shadow, .shadow a {color: rgb(152, 158, 166);text-decoration: underline;}@media only screen and (max-width: 399px) { .kwork-app-stories td { display:block;text-align:center!important; } }</style>
+	<style type="text/css">
+		@media only screen and (max-width: 479px) {
+			.main .top_link { white-space:nowrap; }
+			.kwork-wants-wrapper { padding-left:10px!important;padding-right:10px!important; }
+			.kwork-wants-stats { display: none !important; }
+			.kwork-wants-stats_mobile { display: table !important; }
+		}
+	</style>
+</head>
+<body style="margin:0;padding:0;background:#f9f9f9" bgcolor="#f9f9f9">
+<table width="100%" bgcolor="#F9F9F9" cellpadding="0" cellspacing="0" border="0" style="margin:0;border-collapse:collapse;padding:0;line-height:100%!important;font-family:\'Helvetica Neue\',Helvetica,Arial,sans-serif;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;background-color:rgb(249,249,249);font-size:15px;color:rgb(55,55,55);">
+	<tbody>
+	<tr>
+		<td valign="top" style="border-collapse:collapse">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" class="main" style="max-width:680px;margin:0 auto;border-collapse:collapse">
+				<tr>
+					<td valign="bottom" style="border-collapse:collapse;padding:20px 16px 12px">
+						<a href="https://kwork.ru?utm_content=logo&utm_token=7c6874ea932996c2d46599cec6ac4f27" style="font-weight: bold; color: rgb(67,159,224); text-decoration: none; word-break: break-word;" target="_blank"><img src="https://cdn.kwork.ru/images/mailing/logo.png?v=1" style="outline: none; text-decoration: none; max-width: 100%; border: none; width: 130px;" class="CToWUd" /></a>					</td>
+					<td valign="bottom" style="border-collapse:collapse;padding:20px 16px 12px">
+						<div style="max-width:680px;margin:0 auto;text-align:right">
+							<a class="top_link" href="https://kwork.ru" style="text-decoration:none;word-break:break-all;text-transform: uppercase;font-size: 10px" target="_blank">
+								перейти на <span style="white-space: nowrap;">kwork.ru</span>
+							</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="border-collapse:collapse">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="max-width:680px;margin:0 auto;border-collapse:collapse">
+				<tbody>
+				<tr>
+					<td valign="top" style="border-collapse:collapse">
+						<div style="max-width:680px;margin:0 auto;padding:0 12px">
+							<div style="background-color:white;border-radius:8px;padding:30px;margin-bottom:12px;" class="kwork-wants-wrapper">
+								<table width="100%" style="margin-bottom: 10px;width:100%">
+									<tr>
+										<td>
+											<div style="margin-bottom:8px; font-size: 22px;font-weight: 400;line-height: 24px;">
+												+26 новых подходящих проектов
+											</div>
+										</td>
+										<td width="80" align="right">
+											<img src="https://cdn.kwork.ru/images/mailing/icons/5.png" style="outline:none;text-decoration:none;border:none;">
+										</td>
+									</tr>
+								</table>
+								<div style="font-size: 16px;font-weight: 400;line-height: 24px;">
+									<p>
+                                        За последние 3 часа на бирже Kwork размещено <strong>86</strong> новых проектов.
+										В ваших любимых рубриках, на которые вы подписаны, доступно <strong>26</strong> новых проектов.
+										Вот некоторые из них:									</p>
+									<table style="width: 100%; border-collapse: collapse;background: #F9F9F9;border: 1px solid #E5E5E5;">
+										<tr>
+											<td style="font-weight: 700;padding: 10px 15px;border-bottom: 2px solid #E5E5E5;width: 50%;">Название</td>
+											<td style="font-weight: 700;padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">Покупатель</td>
+											<td style="font-weight: 700;padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;">Цена</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502194" style="display: block;text-decoration: none;color:#457edb;">Перенос файлов сайта 170 GB с одного сервера на другой</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Сервера и хостинг</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/bogdanovml" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #e17076; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">b</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">bogdanovml</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														2
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">15 проектов на бирже</div>
+																										<div style="font-size: 13px;">71% нанят</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 500 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502285" style="display: block;text-decoration: none;color:#457edb;">Добавить страницу на сайт (сайт на битриксе)</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/imageresource" style="display: block;text-decoration: none;">
+													<img style="border-radius: 50%; display: inline-block; vertical-align: middle; border:1px solid lightgray;" width="21" height="21" src="https://cdn.kwork.ru/files/avatar/large/25/8783628-2.jpg" alt="">													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">imageresource</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														1
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">7 проектов на бирже</div>
+																										<div style="font-size: 13px;">50% нанято</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 500 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502271" style="display: block;text-decoration: none;color:#457edb;">Отладка сайта на Wordpress</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/nisbin" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #6ec9cb; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">N</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">NISBIN</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														3
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">11 проектов на бирже</div>
+																										<div style="font-size: 13px;">67% нанято</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 2 000 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502147" style="display: block;text-decoration: none;color:#457edb;">Excel макрос/сводные/прайс-лист</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Десктоп программирование</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/tlesu" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #65aadd; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">T</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">TlesU</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														1
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">2 проекта на бирже</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 1 000 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502197" style="display: block;text-decoration: none;color:#457edb;">Удалить обязательное изображение в шаблоне страницы</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/tsm-77" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #65aadd; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">T</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">TSM-77</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														3
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">19 проектов на бирже</div>
+																										<div style="font-size: 13px;">61% нанят</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 500 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502243" style="display: block;text-decoration: none;color:#457edb;">Доработка сайта на modX</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/frenzo228" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #faa774; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">f</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">frenzo228</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														3
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">45 проектов на бирже</div>
+																										<div style="font-size: 13px;">68% нанято</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 500 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502120" style="display: block;text-decoration: none;color:#457edb;">ZennoPoster создать автопостинг ответов на Отзывы</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Скрипты и боты</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/krot81" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #7bc862; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">k</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">krot81</span>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">1 проект на бирже</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 15 000 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502142" style="display: block;text-decoration: none;color:#457edb;">Загрузка файла Excel в 1с</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Десктоп программирование</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/reverparfum" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #65aadd; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">r</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">reverparfum</span>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">1 проект на бирже</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 10 000 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502273" style="display: block;text-decoration: none;color:#457edb;">Нужно ускорить сайт по PageSpeed</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/seokom" style="display: block;text-decoration: none;">
+													<img style="border-radius: 50%; display: inline-block; vertical-align: middle; border:1px solid lightgray;" width="21" height="21" src="https://cdn.kwork.ru/files/avatar/large/15/3996-3.jpg" alt="">													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">Seokom</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														6
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">82 проекта на бирже</div>
+																										<div style="font-size: 13px;">63% нанято</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 500 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502188" style="display: block;text-decoration: none;color:#457edb;">Размещение видео со страницы Ютуб на сайте</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/tsm-77" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #65aadd; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">T</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">TSM-77</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														3
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">19 проектов на бирже</div>
+																										<div style="font-size: 13px;">61% нанят</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 1 000 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502267" style="display: block;text-decoration: none;color:#457edb;">VEVE написание простого скрипта/бота</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Скрипты и боты</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/terrorblade" style="display: block;text-decoration: none;">
+													<span style="width: 21px; height: 21px; background: #65aadd; color: #FFFFFF; font-size:12px; font-weight: normal; border-radius: 50%; display: inline-block; vertical-align: middle; text-align: center; line-height:21px; border:1px solid lightgray;">T</span>													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">Terrorblade</span>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">1 проект на бирже</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 3 000 Р											</td>
+										</tr>
+																				<tr>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<div style="font-size: 14px;">
+													<a href="https://kwork.ru/new_offer?project=1502134" style="display: block;text-decoration: none;color:#457edb;">Научить Битрикс отображать торговые предложения</a>
+												</div>
+												<div style="font-size: 12px;margin-top: 5px;">Разработка и IT > Доработка и настройка сайта</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;">
+												<a href="https://kwork.ru/user/not_rich" style="display: block;text-decoration: none;">
+													<img style="border-radius: 50%; display: inline-block; vertical-align: middle; border:1px solid lightgray;" width="21" height="21" src="https://cdn.kwork.ru/files/avatar/large/23/7424029-1.jpg" alt="">													<span style="margin-right:3px;color:#457edb;font-size: 13px; margin-left: 5px;display: inline-block;vertical-align: middle;">not_rich</span>
+																										<div style="font-size:14px;display: inline-block;color: #ffa800;border: 2px solid #ffa800; font-weight: bold;border-radius: 100%;width: 16px;height: 16px;line-height:16px;text-align: center;">
+														2
+													</div>
+																									</a>
+												<div style="margin-top: 5px">
+													<div style="font-size: 13px;margin-bottom: 2px;">4 проекта на бирже</div>
+																										<div style="font-size: 13px;">50% нанято</div>
+																									</div>
+											</td>
+											<td style="padding: 10px 15px;border-bottom: 2px solid #E5E5E5;text-align: center;white-space: nowrap;color: #090;font-weight: 700;">
+												 3 000 Р											</td>
+										</tr>
+																			</table>
+									<p style="font-size: 22px;font-weight: 400;line-height: 28px;margin-top: 30px;">Ваши настройки на бирже</p>
+									<table style="width: 100%; border-collapse: collapse;background: #F9F9F9;border: 1px solid #E5E5E5;" class="kwork-wants-stats">
+										<tr>
+											<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">10</td>
+																						<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">21 января</td>
+																						<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">4</td>
+											<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">Раз в 3 часа</td>
+										</tr>
+										<tr>
+											<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Доступно коннектов</td>
+																						<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Дата пополнения</td>
+																						<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Любимые рубрики</td>
+											<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Уведомления</td>
+										</tr>
+										<tr>
+											<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"><a href="https://kwork.ru/faq?role=5&article=441" style="color:#457edb;font-style: italic;">Что это?</a></td>
+																						<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"></td>
+																						<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"><a href="https://kwork.ru/projects?popup=my" style="color:#457edb;font-style: italic; white-space: nowrap;">Изменить</a></td>
+											<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"><a href="https://kwork.ru/projects?popup=email" style="color:#457edb;font-style: italic;">Настроить</a></td>
+										</tr>
+									</table>
+									<table style="width: 100%; border-collapse: collapse;background: #F9F9F9;border: 1px solid #E5E5E5;display: none;" class="kwork-wants-stats_mobile">
+										<tr>
+											<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">10</td>
+											<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">21 января</td>
+										</tr>
+										<tr>
+											<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Доступно коннектов</td>
+											<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Дата пополнения</td>
+										</tr>
+										<tr>
+											<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"><a href="https://kwork.ru/faq?role=5&article=441" style="color:#457edb;font-style: italic;">Что это?</a></td>
+											<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"></td>
+										</tr>
+
+										<tr>
+											<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">4</td>
+											<td style="text-align:center;padding: 10px 10px 0;color: #090;line-height: 25px;font-weight: 600;white-space: nowrap;">Раз в 3 часа</td>
+										</tr>
+										<tr>
+											<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Любимые рубрики</td>
+											<td style="text-align:center;padding: 0 10px;font-size: 13px;line-height: 18px;color: #8a8a8a;">Уведомления</td>
+										</tr>
+										<tr>
+											<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"><a href="https://kwork.ru/projects?popup=my" style="color:#457edb;font-style: italic; white-space: nowrap;">Изменить</a></td>
+											<td style="text-align:center;padding: 0 10px 10px;font-size: 13px;line-height: 18px;"><a href="https://kwork.ru/projects?popup=email" style="color:#457edb;font-style: italic;">Настроить</a></td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>
+					</td>
+				</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="border-collapse:collapse">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" class="main" style="margin:0 auto;border-collapse:collapse">
+				<tbody>
+				<tr>
+					<td valign="bottom" align="center" style="border-collapse:collapse;padding-bottom:30px; font-size: 11px; color:#457edb;">
+						<a href="https://kwork.ru/projects?popup=email">Настроить частоту уведомлений</a>
+						<br><a href="https://kwork.ru/projects/unsubscribe?token=KaTANFsyOy">Отписаться</a> 					</td>
+				</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+	</tbody>
+</table>
+</body>
+</html>
+
+writed
+new message here
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="line-height:normal">
+    <tbody>
+    <tr>
+        <td align="center" bgcolor="#ffffff">
+            <div style="overflow:hidden">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody>
+                    <tr>
+                        <td align="center"></td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <div style="max-width:800px;width:100%">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:800px">
+                                    <tbody>
+                                    <tr>
+                                        <td align="center" bgcolor="#EFEFEF">
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                <tr>
+                                                    <td align="center">
+                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                               style="max-width:720px;min-width:300px">
+                                                            <tbody>
+                                                            <tr>
+                                                                <td align="center">
+                                                                    <div
+                                                                        style="font-size:8px;height:10px;line-height:10px">
+                                                                        &nbsp;
+                                                                    </div>
+                                                                    <table border="0" cellpadding="0" cellspacing="0"
+                                                                           width="100%">
+                                                                        <tbody>
+                                                                        <tr>
+                                                                            <td align="center">
+                                                                                <table border="0" cellpadding="0"
+                                                                                       cellspacing="0" width="100%">
+                                                                                    <tbody>
+                                                                                    <tr>
+                                                                                        <td align="left" valign="top"
+                                                                                            style="font-size:0px;line-height:0px">
+                                                                                            <div
+                                                                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:360px;min-width:130px;vertical-align:top;width:50%">
+                                                                                                <table border="0"
+                                                                                                       cellpadding="0"
+                                                                                                       cellspacing="0"
+                                                                                                       width="100%"
+                                                                                                       style="border-collapse:collapse">
+                                                                                                    <tbody>
+                                                                                                    <tr>
+                                                                                                        <td align="left"
+                                                                                                            valign="top"
+                                                                                                            style="font-size:14px;line-height:18px">
+                                                                                                            <table
+                                                                                                                border="0"
+                                                                                                                cellpadding="0"
+                                                                                                                cellspacing="0"
+                                                                                                                width="89">
+                                                                                                                <tbody>
+                                                                                                                <tr>
+                                                                                                                    <td align="center">
+                                                                                                                        <a href="https://gainnet.ru"
+                                                                                                                           target="_blank"
+                                                                                                                           rel="noopener noreferrer">
+                                                                                                                            <img
+                                                                                                                                border="0"
+                                                                                                                                height="40"
+                                                                                                                                style="display:block"
+                                                                                                                                src="https://gainnet.ru/img/gainnet.png"
+                                                                                                                                alt="Gainnet">
+                                                                                                                        </a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                </tbody>
+                                                                                                            </table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    </tbody>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:360px;min-width:130px;vertical-align:top;width:50%">
+                                                                                                <table border="0"
+                                                                                                       cellpadding="0"
+                                                                                                       cellspacing="0"
+                                                                                                       width="100%"
+                                                                                                       style="border-collapse:collapse">
+                                                                                                    <tbody>
+                                                                                                    <tr>
+                                                                                                        <td align="right"
+                                                                                                            valign="top"
+                                                                                                            style="font-size:14px;line-height:18px">
+                                                                                                            <table
+                                                                                                                border="0"
+                                                                                                                cellpadding="0"
+                                                                                                                cellspacing="0"
+                                                                                                                width="89">
+                                                                                                                <tbody>
+                                                                                                                <tr>
+                                                                                                                    <td align="center">
+                                                                                                                        <a href="https://gainnet.ru/my"
+                                                                                                                           target="_blank"
+                                                                                                                           rel="noopener noreferrer">
+                                                                                                                            <img
+                                                                                                                                alt="Gainnet"
+                                                                                                                                border="0"
+                                                                                                                                height="40"
+                                                                                                                                width="170"
+                                                                                                                                style="display:block"
+                                                                                                                                src="https://gainnet.ru/img/my-area.png ">
+                                                                                                                        </a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                </tbody>
+                                                                                                            </table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    </tbody>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <div
+                                                                        style="font-size:8px;height:10px;line-height:10px">
+                                                                        &nbsp;
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+<tr>
+    <td align="center" bgcolor="#ffffff">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:620px;min-width:300px">
+            <tbody>
+            <tr>
+                <td align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                            <td align="left">
+                                <div style="font-size:8px;height:40px;line-height:40px">&nbsp;</div>
+                                <div style="line-height:28px">
+											<span
+                                                style="color:#212121;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:18px;line-height:28px">
+												Новый лид
+											</span>
+                                </div>
+                            </td>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+<tr>
+    <td align="center" bgcolor="#ffffff">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:620px;min-width:300px">
+            <tbody>
+            <tr>
+                <td align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                            <td align="left">
+                                <div style="font-size:8px;height:40px;line-height:40px">&nbsp;</div>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="left" style="font-size:0px">
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;vertical-align:top;width:180px">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="180"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:18px">
+																								<span
+                                                                                                    style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;line-height:18px">
+																									Телефон
+																								</span>
+                                                                        </div>
+                                                                        <div
+                                                                            style="font-size:8px;height:10px;line-height:10px">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:420px;vertical-align:top;width:100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:22px">
+																								<span
+                                                                                                    style="color:#000000;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;font-weight:bold;line-height:22px">
+																									70001234567
+																								</span>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <div style="font-size:8px;height:17px;line-height:17px">&nbsp;</div>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="left" style="font-size:0px">
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;vertical-align:top;width:180px">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="180"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:18px">
+																								<span
+                                                                                                    style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;line-height:18px">
+																									Имя
+																								</span>
+                                                                        </div>
+                                                                        <div
+                                                                            style="font-size:8px;height:10px;line-height:10px">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:420px;vertical-align:top;width:100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:22px">
+																								<span
+                                                                                                    style="color:#000000;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;font-weight:bold;line-height:22px">
+																									Тестовый лид
+																								</span>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <div style="font-size:8px;height:17px;line-height:17px">&nbsp;</div>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="left" style="font-size:0px">
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;vertical-align:top;width:180px">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="180"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:18px">
+																								<span
+                                                                                                    style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;line-height:18px">
+																									Регион
+																								</span>
+                                                                        </div>
+                                                                        <div
+                                                                            style="font-size:8px;height:10px;line-height:10px">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:420px;vertical-align:top;width:100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:22px">
+																								<span
+                                                                                                    style="color:#000000;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;font-weight:bold;line-height:22px">
+																									Москва и МО
+																								</span>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div style="font-size:8px;height:20px;line-height:20px">&nbsp;</div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <div style="font-size:8px;height:17px;line-height:17px">&nbsp;</div>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="left" style="font-size:0px">
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;vertical-align:top;width:180px">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="180"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:18px">
+																								<span
+                                                                                                    style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;line-height:18px">
+																									Дата
+																								</span>
+                                                                        </div>
+                                                                        <div
+                                                                            style="font-size:8px;height:10px;line-height:10px">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:420px;vertical-align:top;width:100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                       style="border-collapse:collapse">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="left" valign="middle"
+                                                            style="font-size:14px;line-height:18px">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left" valign="top">
+                                                                        <div style="line-height:22px">
+																								<span
+                                                                                                    style="color:#000000;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;font-weight:bold;line-height:22px">
+																									29.12.2021 18:24:47
+																								</span>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div style="font-size:8px;height:20px;line-height:20px">&nbsp;</div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div style="font-size:8px;height:30px;line-height:30px">&nbsp;</div>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                            <td align="left">
+                                <div style="font-size:8px;height:40px;line-height:40px">&nbsp;</div>
+                                <div style="line-height:28px">
+															<span
+                                                                style="color:#222222;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:18px;line-height:28px">
+															Тестовое описание лида
+															</span>
+                                </div>
+                            </td>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div style="font-size:8px;height:17px;line-height:17px">&nbsp;</div>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td style="border-bottom-color:#ececec;border-bottom-style:solid;border-bottom-width:1px">
+                                <div style="font-size:8px;height:36px;line-height:36px">&nbsp;</div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div style="font-size:8px;height:24px;line-height:24px">&nbsp;</div>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td align="left" valign="top">
+                                <div style="line-height:16px">
+															<span
+                                                                style="color:#000000;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:14px;line-height:16px">
+																Цена
+															</span>
+                                </div>
+                                <div style="font-size:8px;height:20px;line-height:20px">&nbsp;</div>
+                            </td>
+                            <td width="10">&nbsp;</td>
+                            <td align="right" valign="top" width="100">
+                                <div style="line-height:16px">
+															<span
+                                                                style="color:#000000;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:14px;line-height:16px">
+																100&nbsp;₽
+															</span>
+                                </div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div style="font-size:8px;height:30px;line-height:30px">&nbsp;</div>
+                    <table width="217">
+                        <tbody>
+                        <tr>
+                            <td align="center" bgcolor="#ececec" height="52" valign="middle" style="border-radius:2px">
+                                <div style="line-height:14px">
+                                    <a href="https://gainnet.ru/my/lead/test/790"
+                                       style="color:#222222;display:inline-block;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:16px;font-weight:bold;line-height:52px;text-decoration-line:none;width:217px"
+                                       target="_blank" rel="noopener noreferrer">
+																<span style="color:#222222;font-weight:bold">
+																	Просмотреть лид на сайте
+																</span>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div style="font-size:8px;height:54px;line-height:54px">&nbsp;</div>
+
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+
+<tr>
+    <td align="center" bgcolor="#fafafa">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:620px;min-width:300px">
+            <tbody>
+            <tr>
+                <td align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                            <td align="center" valign="middle">
+
+                                <div style="font-size:8px;height:40px;line-height:40px">&nbsp;</div>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="left" valign="top" style="font-size:0px;line-height:0px">
+                                            <div
+                                                style="display:inline-block;font-size:14px;line-height:18px;max-width:300px;vertical-align:top;width:100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" dir="ltr"
+                                                       width="100%">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td align="center">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   class="155c58adc8fb656905e5b7c523397049mob_280"
+                                                                   width="100%">
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td align="left">
+                                                                        <table border="0" cellpadding="0"
+                                                                               cellspacing="0" width="95%">
+                                                                            <tbody>
+                                                                            <tr>
+                                                                                <td align="left">
+                                                                                    <div style="line-height:20px">
+																															                                    <span
+                                                                                                                                                                    style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:14px;font-weight:bold;line-height:20px">
+																															                                        Поддержка
+																															                                    </span>
+                                                                                    </div>
+                                                                                    <div
+                                                                                        style="font-size:8px;height:8px;line-height:8px">
+                                                                                        &nbsp;
+                                                                                    </div>
+                                                                                    <div style="line-height:20px">
+																															                                	<span
+                                                                                                                                                                    style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:12px;line-height:20px">
+																															                                		Любые вопросы о&nbsp;работе системы можно задать по&nbsp;телефону <a
+                                                                                                                                                                        href="tel:+74993466300"
+                                                                                                                                                                        style="color:#727272;text-decoration-line:none"
+                                                                                                                                                                        target="_blank"
+                                                                                                                                                                        rel="noopener noreferrer">8 (499) 346 63 00</a>
+																															                                	</span>
+                                                                                    </div>
+                                                                                </td>
+                                                                            </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <div
+                                                                            style="font-size:8px;height:18px;line-height:18px">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                        <div
+                                                                            style="font-size:8px;height:20px;line-height:20px">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="center"
+                                            style="border-bottom-color:#e7e7e7;border-bottom-style:solid;border-bottom-width:1px">
+                                            <div style="font-size:8px;height:36px;line-height:36px">&nbsp;</div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <div style="font-size:8px;height:40px;line-height:40px">&nbsp;</div>
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td align="left">
+                                            <div style="line-height:20px">
+																										    <span
+                                                                                                                style="color:#727272;font-family:'arial' , 'tahoma' , 'helvetica' , sans-serif;font-size:12px;line-height:20px">
+																										        Пишет вам заботливый робот — мне можно не&nbsp;отвечать, читать меня не научили.
+																										    </span>
+                                            </div>
+                                            <div style="font-size:8px;height:40px;line-height:40px">&nbsp;</div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td width="10">
+                                <div style="font-size:8px;height:10px;line-height:10px">&nbsp;</div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+writed
